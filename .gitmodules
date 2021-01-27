@@ -1,0 +1,4 @@
+[submodule "OCA/hr-expense/tree/13.0/hr_expense_advance_clearing"]
+	path = OCA/hr-expense/tree/13.0/hr_expense_advance_clearing
+	url = git@github.com:OCA/hr-expense.git
+	branch = 13.0
